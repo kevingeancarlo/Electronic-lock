@@ -5,9 +5,10 @@
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
 }
-
+/* https://www.telematia.com/wp-content/uploads/2021/09/bn-vector.png
+../images/bg1.jpg */
 body{
-    background-image: url(../images/bg1.jpg);
+    background-image: url(https://www.telematia.com/wp-content/uploads/2021/09/bn-vector.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -140,8 +141,6 @@ main{
 .formulario__register{
     display: none;
 }
-
-
 
 @media screen and (max-width: 850px){
 
